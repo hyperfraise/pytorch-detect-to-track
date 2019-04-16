@@ -1,6 +1,6 @@
 cython
 cffi
-opencv-python
+opencv - python
 scipy
 easydict
 matplotlib
